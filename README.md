@@ -14,7 +14,6 @@
 
 :small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
 
-... 
 
 ## Descrição do projeto: 
 
@@ -40,7 +39,7 @@ Navegador Web
 Abra o link na seção deploy em um navegador, ou baixe o zip e abra o arquivo index no seu navegador. 
 
 ## Casos de Uso
-![Tela_Numero-Secreto]()![Amigo-secreto](https://github.com/user-attachments/assets/ed37658a-fb65-454f-97a1-49aa462d51dc)
+https://github.com/user-attachments/assets/ca92dce3-b67f-4896-a585-bf769386fbc8
 
 Esta aplicação é ideal para aprender ou se divertir com conceitos básicos de programação e lógica. Abaixo estão alguns casos de uso do jogo:
 
@@ -50,7 +49,7 @@ Usuários podem explorar o funcionamento de números aleatórios, loops e intera
 2. Testes e depuração para desenvolvedores iniciantes
 O número secreto é exibido no console do navegador, permitindo que desenvolvedores possam compreender e depurar o código enquanto testam o jogo.
 
-No GIF acima, você pode ver o funcionamento da pagina.
+No VIDEO acima você pode ver o funcionamento da pagina.
 
 ## Linguagens, dependencias e libs utilizadas :books:
 
