@@ -16,7 +16,7 @@
 ## Descrição do projeto: 
 
 <p align="justify">
-Esse projeto foi criado e desenvolvido durante o Challenge Amigo Secreto do modulo Iniciante em Programação da Alura pelo programa ONE da Oracle, se trata de uma pagina web que tem como objetivo de sortear uma pessoa aleatoriamente para um amigo secreto, programado em Javascript, HTML e CSS, o Amigo Secreto elenca os nomes em uma lista e ao clicar em Sortear, ele sorteia um nome </p>
+Esse projeto foi criado e desenvolvido durante o Challenge Amigo Secreto do modulo Iniciante em Programação da Alura pelo programa ONE da Oracle, se trata de uma pagina web que tem como objetivo de sortear uma pessoa aleatoriamente para um amigo secreto, programado em Javascript, HTML e CSS, o Amigo Secreto elenca os nomes em uma lista e ao clicar em Sortear, ele sorteia um nome. </p>
 
 ## :hammer: Funcionalidades: 
 
